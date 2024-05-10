@@ -1,0 +1,34 @@
+.all-background {
+    --tw-bg-opacity: 1;
+    background-color: rgb(17 24 39/var(--tw-bg-opacity));
+
+}
+
+.navbar-color {
+    background-color: #1c0445;
+    opacity: 0.9;
+}
+
+.card-background {
+    --tw-text-opacity: 1;
+    background-color: rgb(200, 182, 255);
+
+}
+
+.n-tog {
+    background-color: blue;
+}
+
+.n-t-i {
+    border: 0px;
+    background-color: #eddc14;
+    border-radius: 10%;
+}
+
+
+.navbar-icon-image:hover{
+    filter: contrast(200%);
+    cursor: pointer;
+    transform: scale(1.095);
+    transition: 0.5s ease-in;
+}
